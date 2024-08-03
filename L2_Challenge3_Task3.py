@@ -2,7 +2,7 @@
 # Code Wars: Numbers to objects
 
 
-###SIMPLIFY###
+
 def num_obj(s):
     list_of_dict = []
     dict = {}
